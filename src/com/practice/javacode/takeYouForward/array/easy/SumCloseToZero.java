@@ -1,6 +1,10 @@
-package com.practice.javacode.arrayCode.search.easy;
+package com.practice.javacode.takeYouForward.array.easy;
 
 import java.util.Arrays;
+
+/*Given an integer array of N elements. You need to find the maximum sum of two elements such that sum is closest to zero.
+Note: In Case if we have two of more ways to form sum of two elements closest to zero return the maximum sum.
+*/
 
 public class SumCloseToZero {
 
